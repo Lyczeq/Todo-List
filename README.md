@@ -13,3 +13,4 @@ After running the Todo-List, the program retrieves the data of scheduled activit
 3. *Show all the tasks for the particular day.* - Similar to the first option, the program displays all planned activities, but this time for the date entered by the user.
 4. *Delete the task.* - The user enters information about the date and name of the task he wants to delete.
 5. *Close the application. All of the changes will be saved*
+<img src="img/menu.png">
